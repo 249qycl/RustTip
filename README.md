@@ -13,6 +13,10 @@
 * serde_derive="1.0"
 * lazy_static="1.2.0"
 
+[usage]
+RustTip --help
+
+
 注意事项：
 * Rust守护进程资料较少，在此使用僵尸进程进行替代，支持主动关闭僵尸进程；
 * 交叉编译采用容器环境完成
