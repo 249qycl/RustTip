@@ -14,7 +14,7 @@
 * lazy_static="1.2.0"
 
 [usage]
-RustTip --help
+>RustTip --help
 
 
 注意事项：
