@@ -1,5 +1,5 @@
 [package]
-name = "email"
+name = "RustTip"
 version = "0.1.0"
 edition = "2021"
 
