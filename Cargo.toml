@@ -1,0 +1,16 @@
+[package]
+name = "email"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+lettre = "0.10.0-rc.6"
+regex="1.5.5"
+chrono="0.4.19"
+clap="2.33.0"
+serde_json = { version = "1.0", default-features = false, features = ["alloc"] }
+serde= { version = "1.0", features = ["derive"] }
+serde_derive="1.0"
+lazy_static="1.2.0"
