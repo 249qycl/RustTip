@@ -4,9 +4,9 @@
 用于实验室服务器的自动调度提醒通知
 
 [dependencies]
-lettre = "0.10.0-rc.6"
-regex="1.5.5"
-chrono="0.4.19"
+* lettre = "0.10.0-rc.6"
+* regex="1.5.5"
+* chrono="0.4.19"
 clap="2.33.0"
 serde_json = { version = "1.0", default-features = false, features = ["alloc"] }
 serde= { version = "1.0", features = ["derive"] }
